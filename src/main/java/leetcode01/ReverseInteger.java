@@ -33,6 +33,17 @@ public class ReverseInteger {
         return (int) result;
     }
 
+    //优化版本
+    public int reverse_perfect(int x){
+        long res = 0;
+        while(x != 0){
+           res = res * 10 +  x % 10;
+           x = x / 10;
+        }
+        return res == (int) res ? (int)res : 0;
+
+    }
+
     public static void main(String[] args) {
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Integer.MIN_VALUE);
