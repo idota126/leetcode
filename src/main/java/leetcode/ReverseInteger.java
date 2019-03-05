@@ -1,11 +1,7 @@
-package leetcode01;
+package leetcode;
 
 
-import java.beans.IntrospectionException;
-import java.math.BigDecimal;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 /**

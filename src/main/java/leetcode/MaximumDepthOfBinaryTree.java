@@ -1,4 +1,4 @@
-package leetcode01;
+package leetcode;
 
 /**
  * @Description: https://leetcode.com/problems/maximum-depth-of-binary-tree/

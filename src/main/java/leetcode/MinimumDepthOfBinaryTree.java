@@ -1,6 +1,4 @@
-package leetcode01;
-
-import javax.swing.tree.TreeNode;
+package leetcode;
 
 /**
  * @Description: https://leetcode.com/problems/minimum-depth-of-binary-tree/

@@ -1,4 +1,4 @@
-package leetcode01;
+package leetcode;
 
 /**
  * @Description:
