@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * @Description: https://leetcode.com/problems/maximum-width-of-binary-tree/
+ * @Description: https://leetcode.com/problems/maximum-width-of-binary-datastructure.tree/
  * @Author idota
  * @Date 2019/3/1
  */

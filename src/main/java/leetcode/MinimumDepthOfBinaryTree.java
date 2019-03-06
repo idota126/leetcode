@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * @Description: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+ * @Description: https://leetcode.com/problems/minimum-depth-of-binary-datastructure.tree/
  * @Author idota
  * @Date 2019/3/1
  */
@@ -19,7 +19,7 @@ public class MinimumDepthOfBinaryTree {
     }
 
     /**
-     * Definition for a binary tree node.
+     * Definition for a binary datastructure.tree node.
      * public class TreeNode {
      * int val;
      * TreeNode left;
