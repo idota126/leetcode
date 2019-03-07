@@ -18,7 +18,6 @@ public class PathSum {
     }
 
     public boolean hasPathSum(TreeNode root, int sum) {
-
         return isValid(root, 0, sum);
     }
 
